@@ -11,7 +11,7 @@ body {
 
 h1 {
     color: white;
-    font-size: 148px;
+    font-size: 120px;
     text-align: center;
 }
 
@@ -23,4 +23,5 @@ button {
     padding: 10px 20px;
     font-size: 24px;
     cursor: pointer;
+    margin-bottom: 2rem;
 }
